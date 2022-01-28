@@ -2,6 +2,7 @@
 echo -n "Number = "
 read User
 echo ""
+
 # Upper Half
 for((row=$User; row>=1; row--))
 do
